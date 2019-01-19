@@ -42,8 +42,6 @@
 		9587F4FF21F26831001EF536 = {
 			isa = PBXGroup;
 			children = (
-				9587F56121F3D483001EF536 /* Assets.xcassets */,
-				9587F53B21F34F66001EF536 /* Launch Screen.storyboard */,
 				9587F50A21F26831001EF536 /* HelloAlarm */,
 				9587F50921F26831001EF536 /* Products */,
 			);
@@ -60,6 +58,8 @@
 		9587F50A21F26831001EF536 /* HelloAlarm */ = {
 			isa = PBXGroup;
 			children = (
+				9587F56121F3D483001EF536 /* Assets.xcassets */,
+				9587F53B21F34F66001EF536 /* Launch Screen.storyboard */,
 				9587F53F21F357E1001EF536 /* background.png */,
 				9587F50B21F26831001EF536 /* AppDelegate.swift */,
 				9587F51721F26833001EF536 /* Info.plist */,
